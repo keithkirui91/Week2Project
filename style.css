@@ -1,16 +1,37 @@
+html{
+    background-color: rgb(173, 173, 197);
+    align-items: center;
+}
+header{
+    text-align: center;
+    background-color: #000;
+    color: seashell;
+    
+}
 .containor{
-    background-color: aqua;
-
-
+    margin-top: 3rem;
+    background-color: none;
+    align-items: center;
+    position: inherit;
+    margin: auto;
+   
+}
+.my-form{
+    padding: 1rem;
+    padding-top: 6rem;
+    height: 15rem;
+    text-align: center;
+    background-color: rgb(0, 143, 209);
+    border: black;
+    border-radius: 15px;
+    margin: auto;
+    width: 30%;
 }
 
-.row{
-    border-color: black;
-
-
-}
-
-.col{
-    border-color: red;
-
+.form-fill{
+    display: inline-block;
+    padding: 1rem;
+    height: auto;
+    background-color: rgb(28, 148, 218);
+    
 }
