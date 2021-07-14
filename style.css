@@ -6,16 +6,17 @@ header{
     text-align: center;
     background-color: #000;
     color: seashell;
-    border-radius: 2px;
+    border-radius: 4px;
     
 }
 .containor{
-    margin-top: 3rem;
+    margin-top: 1rem;
     background-color: none;
     align-items: center;
     position: inherit;
     margin: auto;
     text-align: center;
+    padding: 1rem;
    
 }
 p{
@@ -23,15 +24,21 @@ p{
     font-family: cursive;
     font-weight: 700;
     background-color: #fff;
-    border-radius: 2px;
+    border-radius: 3px;
 }
+.form-fill{
+    font-family: cursive;
+    font-weight: bold;
+    color: rgb(255, 38, 0);
+
+}
+
 .my-form{
     padding: 1rem;
-    padding-top: 3rem;
-    height: 15rem;
+    padding-top: 1rem;
+    height: 20rem;
     text-align: center;
     background-color: rgb(0, 143, 209);
-    border: black;
     border-radius: 15px;
     margin: auto;
     width: 30%;
