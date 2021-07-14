@@ -6,6 +6,7 @@ header{
     text-align: center;
     background-color: #000;
     color: seashell;
+    border-radius: 2px;
     
 }
 .containor{
@@ -14,11 +15,19 @@ header{
     align-items: center;
     position: inherit;
     margin: auto;
+    text-align: center;
    
+}
+p{
+    padding: .5rem;
+    font-family: cursive;
+    font-weight: 700;
+    background-color: #fff;
+    border-radius: 2px;
 }
 .my-form{
     padding: 1rem;
-    padding-top: 6rem;
+    padding-top: 3rem;
     height: 15rem;
     text-align: center;
     background-color: rgb(0, 143, 209);
@@ -26,12 +35,24 @@ header{
     border-radius: 15px;
     margin: auto;
     width: 30%;
+    font-family: cursive;
 }
 
 .form-fill{
     display: inline-block;
     padding: 1rem;
     height: auto;
+    width: 20rem;
     background-color: rgb(28, 148, 218);
+    border-radius: 15px;
+    text-align: center;
     
+}
+.submit-btn{
+    color: yellow;
+    background-color: rgba(112, 0, 0, 0.533);
+    border-radius: 5px;
+    text-align: center;
+    
+
 }

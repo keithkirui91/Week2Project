@@ -8,20 +8,35 @@
     <title>Document</title>
     
     <header>
-        <h1>KHAN NAMING</h1>
-        <h2>Get tto know your knan name today</h2>
+        <h1>AKAN NAMING</h1>
+        <h2>Get to know your Akan name today</h2>
 
 
     </header>
 </head>
 <body>
     <div class="containor">
+        <p>Akan names are derived from Ghanian culture. 
+            Frequently in Ghana, children are given their
+            first name as a 'day name' which corresponds
+            to the day in the week they were born. Here
+            are Ghanian day names.
+        </p>
+        <p>
+            Fill in your details below to find out yours
+        </p>
+
         <div class="my-form">
-        <form action="index.php">
+        <form action="index.php" method="POST">
             <div class="form-fill">
-            <input type="text" id=fname><br><br>
-            <input type="text" id=gender><br><br>
-            <input type="submit">
+            Enter DOB <br>
+            <input type="date" id=fname placeholder="dd/mm/yyyy"><br><br>
+            Pick your gender<br>
+            <select>
+                <option value=male >male</option>
+                <option value=female >female</option>
+            </select><br><br>
+            <input type="submit" class="submit-btn">
             </div>
         </form>
         </div>
