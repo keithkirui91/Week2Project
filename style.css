@@ -70,6 +70,6 @@ p{
 
 }
 .btn-find:hover{
-    background-color: rgb(51, 1, 1);
-    transition: 1s;
+    background-color: rgb(66, 64, 64);
+    transition: .5s;
 }
