@@ -5,7 +5,7 @@
         
 
         var date = new Date(document.getElementById("date").value);
-        var gender= document.getElementById("gender").value;
+        const gender= document.getElementById("gender").value;
         
         const s = date.getDay();
     
