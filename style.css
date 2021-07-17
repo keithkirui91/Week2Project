@@ -54,8 +54,16 @@ p{
     height: auto;
     align-self: auto;
     width: 20rem;
-    background-color: rgb(28, 148, 218);
+    background-color: rgb(65, 1, 1);
     border-radius: 15px;
     text-align: center;
     
+}
+.button{
+    background-color: #fff;
+
+}
+.button:hover{
+    background-color: red;
+    transition: 1s;
 }
