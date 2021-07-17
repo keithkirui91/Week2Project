@@ -62,9 +62,10 @@ p{
 .btn-find{
     background-color: rgb(139, 139, 139);
     border-radius: 10px;
+    color: rgb(255, 251, 0);
 
 }
 .btn-find:hover{
-    background-color: red;
+    background-color: rgb(51, 1, 1);
     transition: 1s;
 }
