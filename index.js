@@ -1,6 +1,7 @@
 
     
     function dayOfTheWeek(){
+        confirm("Continue")
 
         var date = new Date(document.getElementById("date").value);
         var gender= document.getElementById("gender").value;
@@ -9,60 +10,60 @@
     
 
     if(s === 0 && gender === 'M'){
-        alert("YOUR NAME IS KWASI");
-        alert("SUNDAY");
+        document.write("YOUR NAME IS KWASI  ");
+        document.write("You were born on a SUNDAY");
     }
     if(s === 0 && gender === 'F'){
-        alert("YOUR NAME IS AKOSUA");
-        alert("SUNDAY");
+        document.write("YOUR NAME IS AKOSUA  ");
+        document.write("You were born on a SUNDAY");
     }
     if(s === 1 && gender === 'M'){
-        alert("YOUR NAME IS KWADWO");
-        alert("MONDAY");
+        document.write("YOUR NAME IS KWADWO  ");
+        document.write("You were born on a MONDAY");
     }
     if(s === 1 && gender === 'F'){
-        alert("YOUR NAME IS ADOWA");
-        alert("MONDAY");
+        document.write("YOUR NAME IS ADOWA  ");
+        document.write("You were born on a MONDAY");
     }
     if(s === 2 && gender ==='M'){
-        alert("YOUR NAME IS KWABENA");
-        alert("TUESDAY");
+        document.write("YOUR NAME IS KWABENA  ");
+        document.write("You were born on a TUESDAY");
     }
     if(s === 2 && gender === 'F'){
-        alert("YOUR NAME IS ABENAA");
-        alert("TUESDAY");
+        document.write("YOUR NAME IS ABENAA  ");
+        document.write("You were born on a TUESDAY");
     }
     if(s === 3 && gender === 'M'){
-        alert("YOUR NAME IS KWAKU");
-        alert("WEDNESDAY");
+        document.write("YOUR NAME IS KWAKU  ");
+        document.write("You were born on a WEDNESDAY");
     }
     if(s === 3 && gender === 'F'){
-        alert("YOUR NAME IS AKUA");
-        alert("WEDNESDAY");
+        document.write("YOUR NAME IS AKUA  ");
+        document.write("You were born on a WEDNESDAY");
     }
     if(s === 4 && gender === 'M'){
-        alert("YOUR NAME IS YAW");
-        alert("THURSDAY");
+        document.write("YOUR NAME IS YAW  ");
+        document.write("You were born on a THURSDAY");
     }
     if(s === 4 && gender === 'F'){
-        alert("YOUR NAME IS YAA");
-        alert("THURSDAY");
+        document.write("YOUR NAME IS YAA  ");
+        document.write("You were born on a THURSDAY");
     }
     if(s === 5 && gender ===  'M'){
-        alert("YOUR NAME IS KOFI");
-        alert("FRIDAY");
+        document.write("YOUR NAME IS KOFI  ");
+        document.write("You were born on a FRIDAY");
     }
     if(s === 5 && gender === 'F'){
-        alert("YOUR NAME IS AFUA");
-        alert("FRIDAY");
+        document.write("YOUR NAME IS AFUA  ");
+        document.write("You were born on a FRIDAY");
     }
     if(s === 6 && gender === 'M'){
-        alert("YOUR NAME IS KWAME");
-        alert("SATURDAY");
+        document.write("YOUR NAME IS KWAME  ");
+        document.write("You were born on a SATURDAY");
     }
     if(s === 6 && gender === 'F'){
-        alert("YOUR NAME IS AMA");
-        alert("SATURDAY");
+        document.write("YOUR NAME IS AMA  ");
+        document.write("You were born on a SATURDAY");
     }
 
 };
