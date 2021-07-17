@@ -1,12 +1,13 @@
 
     
     function dayOfTheWeek(){
-        confirm("Continue")
+        confirm("Confirm ");
+        
 
         var date = new Date(document.getElementById("date").value);
         var gender= document.getElementById("gender").value;
         
-        var s = date.getDay();
+        const s = date.getDay();
     
 
     if(s === 0 && gender === 'M'){
