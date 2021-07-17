@@ -13,7 +13,6 @@ header{
     margin-top: 1rem;
     background-color: none;
     align-items: center;
-    position: inherit;
     margin: auto;
     text-align: center;
     padding: 1rem;
@@ -38,7 +37,7 @@ p{
     padding-top: 1rem;
     height: 20rem;
     text-align: center;
-    background-color: rgb(0, 143, 209);
+    background-color: none;
     border-radius: 15px;
     margin: auto;
     width: 30%;
@@ -46,9 +45,10 @@ p{
 }
 
 .form-fill{
-    display: inline-block;
+   
     padding: 1rem;
     height: auto;
+    align-self: auto;
     width: 20rem;
     background-color: rgb(28, 148, 218);
     border-radius: 15px;
