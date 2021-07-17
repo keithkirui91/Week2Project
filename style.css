@@ -11,7 +11,7 @@ header{
 }
 .containor{
     margin-top: 1rem;
-    background-color: none;
+    background: url("Flag-Ghana.jpg");
     align-items: center;
     margin: auto;
     text-align: center;
