@@ -31,4 +31,4 @@ Kirui Keith k. Akan Naming
 
 Kirui  Keith K., Akan Naming 
 
-https://keithkirui91.github.io/Week2Project/:link to live site
+https://keithkirui91.github.io/Week2Project/ :link to live site
