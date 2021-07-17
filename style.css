@@ -60,7 +60,8 @@ p{
     
 }
 .btn-find{
-    background-color: #fff;
+    background-color: rgb(139, 139, 139);
+    border-radius: 10px;
 
 }
 .btn-find:hover{
