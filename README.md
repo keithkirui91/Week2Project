@@ -8,4 +8,6 @@ A Read.me for week1 independent project
 
  No installation required.
 
- 
+ ##Contributors
+
+Kirui Keith k. Portfolio design
