@@ -27,7 +27,7 @@ header{
 p{
     padding: .5rem;
     font-family: cursive;
-    font-size: .5rem;
+    font-size: .8rem;
     font-weight: 500;
     background-color: rgb(119, 119, 119);
     border-radius: 3px;
@@ -57,7 +57,7 @@ p{
     height: auto;
     align-self: auto;
     width: 20rem;
-    background-color: rgb(65, 1, 1);
+    background-color: rgb(107, 104, 104);
     border-radius: 15px;
     text-align: center;
     
