@@ -10,11 +10,11 @@ A Read.me for week2 independent project
 
  ##Contributors
 
-Kirui Keith k. Portfolio design
+Kirui Keith k. Akan Naming
 
 
 ##licence and copyright
 
-Kirui  Keith K., Portfolio design
+Kirui  Keith K., Akan Naming 
 
 https://keithkirui91.github.io/Week2Project/:link to live site
